@@ -5,5 +5,5 @@ get '/' do
 end
 
 get '/wyncode' do
-  "Welcome to Wyncode!"
+  "Hi Wyncode!!"
 end
