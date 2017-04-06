@@ -1,8 +1,8 @@
 require 'sinatra'
 
-# get '/' do
-#   "Hello world!"
-# end
+get '/' do
+  redirect '/hello.txt'
+end
 #
 # get '/wyncode' do
 #   "Hi Wyncode!!"
